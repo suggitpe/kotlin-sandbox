@@ -15,6 +15,7 @@ ext {
             test         : [
                     junitApi   : 'org.junit.jupiter:junit-jupiter-api:5.3.2',
                     junitEngine: 'org.junit.jupiter:junit-jupiter-engine:5.3.2',
+                    akkaTestKit: 'com.typesafe.akka:akka-testkit_2.12:2.5.22',
                     mockito    : 'org.mockito:mockito-core:2.24.0',
                     assertj    : 'org.assertj:assertj-core:3.12.0',
             ]

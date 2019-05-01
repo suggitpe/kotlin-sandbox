@@ -1,3 +1,5 @@
 dependencies{
     implementation libs.akka
+
+    testImplementation libs.test.akkaTestKit
 }
